@@ -3,7 +3,7 @@ const client = new Discord.Client();
 
 
 client.on('ready', () => {
-	client.user.setGame(`-Universe Town`.....`,'https://www.twitch.tv/v5bz');
+	client.user.setGame(`-Universe Town`,'https://www.twitch.tv/v5bz');
 console.log("Discord Bot By So.?");
   console.log('BySo.?')
   console.log('BySo.?')
