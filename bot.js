@@ -16,7 +16,7 @@ console.log("Discord Bot By So.?");
 
 client.on("guildMemberAdd", member => {
   member.createDM().then(function (author) {
-  return author.send(' ** [ https://discord.gg/MfsDEhC ]      [قلوبهمّ تفيض احتراما وتقديرا لك♡الأشخاص  يبحُثون عن مكان جَميل والبّعض يجعل المكان اجمَل:black_heart: . حياكم الله معناالدعووة خاصة لك...:revolving_hearts:]  ** ')
+  return author.send(' ** [ https://discord.gg/MfsDEhC ]   [user]   [قلوبهمّ تفيض احتراما وتقديرا لك♡الأشخاص  يبحُثون عن مكان جَميل والبّعض يجعل المكان اجمَل:black_heart: . حياكم الله معناالدعووة خاصة لك...:revolving_hearts:]  ** ')
 
 }).catch(console.error)
 })
